@@ -1,0 +1,1 @@
+Model from http://eugen-lange.de/download/ssd-4-traffic-sign-detection-frozen_inpherence_graph-pb/
